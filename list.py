@@ -1,6 +1,7 @@
 mylist=["apple","banana","cheery","blueberry"]
 print(mylist)
 mylist.insert(2,"grapes")
+mylist.insert(3,"Guavava")
 mylist.remove("cheery")
 
 print(mylist)
