@@ -9,4 +9,4 @@ print(name ,age,city)
 mytuple2=(1,2,3,4)
 i1,*i2=mytuple2
 print(i1,i2)
-print(type(i2))
+# print(type(i2))
