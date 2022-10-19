@@ -8,10 +8,10 @@ myset2.add(8)
 #for x in myset2:
 #    print(x)
 #x = int(input("enter num"))
-'''if x in myset:
-    print("yes")
-else:
-    print("no")'''
+# '''if x in myset:
+#     print("yes")
+# else:
+#     print("no")'''
 print(myset.union(myset2))
 print(myset.intersection(myset2))
 print(myset.difference(myset2))
