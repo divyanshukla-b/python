@@ -16,9 +16,9 @@ print(mycounter.most_common(1)[0][0])
 print(list(mycounter.elements()))
 
 
-point=namedtuple('point','x,y')
-pt=point(2,3)
-print(pt,pt.x,pt.y)
+# point=namedtuple('point','x,y')
+# pt=point(2,3)
+# print(pt,pt.x,pt.y)
 
 ordic=OrderedDict()
 ordic['a']=1
